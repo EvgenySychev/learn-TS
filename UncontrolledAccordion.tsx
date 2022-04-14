@@ -31,7 +31,7 @@ function AccordionTitle(props: AccordionTitlePropsType) {
     console.log("AccordionTitle rendering")
 
     return (
-        <h3> --- {props.title} --- </h3>
+        <h3> -- {props.title} -- </h3>
     )
 }
 
